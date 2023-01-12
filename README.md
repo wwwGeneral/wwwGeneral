@@ -2,7 +2,7 @@
 
 
 ```bash
-┌──(wwwGeneral㉿DC01)-[~]
+┌──(wwwGeneral㉿kali)-[~]
 └─$ whoami
 Following my computer science studies, I went on to study cybersecurity at an engineering school.
 
