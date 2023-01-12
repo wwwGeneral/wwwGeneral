@@ -29,17 +29,19 @@ If you have a job to offer me contact me and we'll see together!
 ![MIMIKATZ](https://img.shields.io/badge/Mimikatz-90E59A.svg?style=for-the-badge)
 
 
-## Goal to complete on 2023:
+## Goals to complete on 2023:
 - 👾 I try to get certified in Active Directory:
-	 - [ ] HTB Offshore Prolab
-   - [ ] CRTO
+
+	- [ ] HTB Offshore Prolab
+   	- [ ] CRTO
+   	- [ ] Become a professional pentester/redteamer
   
 ## Futur Goals: 
 - :alien: Get even more certifications:
-	 - [ ] OSEP
-   - [ ] OSCP
-   - [ ] CRTP
-   - [ ] CRTE
+	- [ ] OSEP
+   	- [ ] OSCP
+   	- [ ] CRTP
+   	- [ ] CRTE
    
 - :collision: Finish more Prolabs from HackTheBox:
 	 - [ ] RastaLabs
