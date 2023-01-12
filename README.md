@@ -4,19 +4,19 @@
 ```bash
 ┌──(wwwGeneral㉿DC01)-[~]
 └─$ whoami
-After studies in computer science, I went studying cybersecurity in an engineering school.
+Following my computer science studies, I went on to study cybersecurity at an engineering school.
 
 At the beginning of my M1 I discovered pentesting through tryhackme and I loved it.
 
 Then I did some CTF and I continue to learn more and more about pentesting.
 
-At some point I had a course on pentesting in Active Directory environnement and since that day i'm in love with AD pentesting.
+At some point I took a course on pentesting in Active Directory environment and since that day I'm in love with AD pentesting.
 
-I did some intership to strengthen my knowledge in this field.
+I did some internships to strengthen my knowledge in this field.
 
 At this time i'm in my last year (M2) and I'm excited to soon work in the offensive security world.
 
-If you have a job to offer me contact me and we'll see together! 
+If you have a job to offer me, contact me and we'll see together! 
 ```
 
 ## The tools I like :
