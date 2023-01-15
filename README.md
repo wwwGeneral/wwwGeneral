@@ -6,17 +6,17 @@
 └─$ whoami
 Following my computer science studies, I went on to study cybersecurity at an engineering school.
 
-At the beginning of my M1 I discovered pentesting through tryhackme and I loved it.
+At the beginning of my M1, I discovered pentesting through TryHackMe and I loved it.
 
-Then I did some CTF and I continue to learn more and more about pentesting.
+Then I did some CTF and kept learning more and more about pentesting.
 
-At some point I took a course on pentesting in Active Directory environment and since that day I'm in love with AD pentesting.
+At some point, I took a course on pentesting in Active Directory environment and I fell in love with AD pentesting that day.
 
 I did some internships to strengthen my knowledge in this field.
 
-At this time i'm in my last year (M2) and I'm excited to soon work in the offensive security world.
+I'm currently in my last year (M2) and I'm excited to soon work in the offensive security world.
 
-If you have a job to offer me, contact me and we'll see together! 
+If you have a job to offer me, please don't hesitate to contact me directly to discuss it !
 ```
 
 ## The tools I like :
