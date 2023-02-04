@@ -49,7 +49,7 @@ If you have a job to offer me, please don't hesitate to contact me directly to d
 	 - [ ] APTProlabs
 	
 ## About me:
- - :video_game: I don't have a huge beard but I play video games
+ - :video_game: I do play video games between hacking sessions
  - :crossed_flags: I'm practicing on CTF, tryhackme and HTB
  - 🖥 I loooove AD pentesting (in case you haven't noticed)
  
