@@ -32,7 +32,7 @@ If you have a job to offer me, please don't hesitate to contact me directly to d
 ## Goals to complete on 2023:
 - 👾 I try to get certified in Active Directory:
 
-	- [ ] HTB Offshore Prolab
+	- [X] HTB Offshore Prolab
    	- [ ] CRTO
    	- [ ] Become a professional pentester/redteamer
   
