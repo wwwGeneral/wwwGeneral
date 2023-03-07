@@ -62,7 +62,8 @@ If you want to have technical or professionnal discussion, feel free to add me o
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wwwGeneral.visitor-badge)
 
 ## Scores:
-![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral)
+![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwGeneral&layout=compact&theme=dark)
 
 ## Joke of the day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
