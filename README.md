@@ -19,22 +19,12 @@ I'm currently in my last year (M2) and I'm excited to soon work in the offensive
 If you have a job to offer me, please don't hesitate to contact me directly to discuss it !
 ```
 
-## The tools I like :
-![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![CS](https://img.shields.io/badge/Cobalt%20Strike-A81D33?style=for-the-badge)
-![WINDOWS](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![BLOODHOUND](https://img.shields.io/badge/BloodHound-0078D4?style=for-the-badge)
-![IMPACKET](https://img.shields.io/badge/Impacket-5C2D91?style=for-the-badge)
-![RUBEUS](https://img.shields.io/badge/Rubeus-00979D?style=for-the-badge)
-![MIMIKATZ](https://img.shields.io/badge/Mimikatz-90E59A.svg?style=for-the-badge)
-
-
 ## Goals to complete on 2023:
 - 👾 I try to get certified in Active Directory:
 
 	- [X] HTB Offshore Prolab
    	- [ ] CRTO
-   	- [ ] Become a professional pentester/redteamer
+   	- [ ] Teaching Active Directory pentesting
   
 ## Futur Goals: 
 - :alien: Get even more certifications:
