@@ -1,6 +1,3 @@
-# **Hey ! I'm wwwGeneral but you can call me Nathan**
-
-
 ```bash
 ┌──(wwwGeneral㉿kali)-[~]
 └─$ whoami
@@ -14,27 +11,30 @@ At some point, I took a course on pentesting in Active Directory environment and
 
 I did some internships to strengthen my knowledge in this field.
 
-I'm currently in my last year (M2) and I'm excited to soon work in the offensive security world.
+I'm currently working in the offensive security world at XMCO.
 
-If you have a job to offer me, please don't hesitate to contact me directly to discuss it !
+Don't hesitate to contact me directly to discuss any professional opportunities !
 ```
 
 ## Goals to complete on 2023:
-- 👾 I try to get certified in Active Directory:
-
+- Starting my journey in professional offsec world :
 	- [X] HTB Offshore Prolab
-   	- [ ] CRTO
    	- [ ] Teaching Active Directory pentesting
-  
+   	- [X] Become a professionnal pentester
+
+## Goals to complete on 2024:
+- 👾 I try to get certified in Active Directory:
+   	- [ ] CRTO
+       	- [ ] OSCP
+ 	- [ ] RastaLabs
+    
 ## Futur Goals: 
 - :alien: Get even more certifications:
 	- [ ] OSEP
-   	- [ ] OSCP
    	- [ ] CRTP
    	- [ ] CRTE
    
 - :collision: Finish more Prolabs from HackTheBox:
-	 - [ ] RastaLabs
 	 - [ ] Cybernetics
 	 - [ ] APTProlabs
 	
