@@ -24,9 +24,9 @@ Don't hesitate to contact me directly to discuss any professional opportunities 
 
 ## Goals to complete on 2024:
 - 👾 I try to get certified in Active Directory:
-   	- [ ] CRTO
-       	- [ ] OSCP
- 	- [ ] RastaLabs
+	- [ ] CRTO
+	- [ ] OSCP
+	- [ ] RastaLabs
     
 ## Futur Goals: 
 - :alien: Get even more certifications:
