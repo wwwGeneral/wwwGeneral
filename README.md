@@ -1,4 +1,4 @@
-```plaintext
+```bash
 ┌──(wwwGeneral㉿kali)-[~]
 └─$ whoami
 Following my computer science studies, I went on to study cybersecurity at an engineering school.
@@ -52,14 +52,16 @@ If you want to have technical or professionnal discussion, feel free to add me o
     
 ----
 ## Hacking Platforms:
- [![wwwGeneral](https://www.hackthebox.eu/badge/image/799064)](https://app.hackthebox.com/profile/799064){: .normal }
- [![wwwGeneral](https://tryhackme-badges.s3.amazonaws.com/wwwGeneral.png)](https://tryhackme.com/p/wwwGeneral){: .normal }
+ [![wwwGeneral](https://www.hackthebox.eu/badge/image/799064)](https://app.hackthebox.com/profile/799064)
+ [![wwwGeneral](https://tryhackme-badges.s3.amazonaws.com/wwwGeneral.png)](https://tryhackme.com/p/wwwGeneral)
 
 ## Scores:
-![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral){: .normal }
+![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwGeneral&layout=compact&theme=dark)
+
 
 ## Joke of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api){: .normal }
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
 wwwGeneral/wwwGeneral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
