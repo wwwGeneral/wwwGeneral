@@ -12,8 +12,6 @@ At some point, I took a course on pentesting in Active Directory environment and
 I did some internships to strengthen my knowledge in this field.
 
 I finally graduated as class valedictorian with an engineering degree specialising in cybersecurity! 
-
-In november 2023, I started a full time job as Pentester at XMCO.
 ```
 
 ## About me:
